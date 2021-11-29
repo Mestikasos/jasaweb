@@ -6,11 +6,16 @@
 }
 
 .container{
-	width: 1650px;
+	width: 2000px;
 	margin: auto;
 	position: relative;
 }
 
+#contact1{
+	position: relative;
+	left: 250px;
+	
+}
 /*-------- Navigasi --------*/
 .logo a{
 	font-size: 50px;
